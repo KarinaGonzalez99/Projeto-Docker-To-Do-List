@@ -1,1 +1,2 @@
-docker network inspect bridge
+docker stop 01container
+docker rm 01container
