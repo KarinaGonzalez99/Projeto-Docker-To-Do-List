@@ -1,1 +1,1 @@
-docker network inspect bridge
+docker pull nginx:1.21.3-alpine
